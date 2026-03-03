@@ -1,0 +1,8 @@
+﻿*.h5
+*.pt
+*.pkl
+*.pth
+*.pth.tar
+__pycache__/
+.ipynb_checkpoints/
+data/
